@@ -14,6 +14,9 @@
     <img align="center" alt="Icon CSS" height="30" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img align="center" alt="Icon Bootstrap" height="30" title="Tailwind" src="https://firebasestorage.googleapis.com/v0/b/aredev-418e3.appspot.com/o/images%20to%20readme%2Fnwt9ncojkvwmjfkaada8upafvpnu.png?alt=media&token=6f3eba67-4034-455e-9282-a595b5846a1a" />
     <img align="center" alt="Icon Javascript" height="30" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="Icon Javascript" height="30" title="Javascript" src="![Dart-logo](https://github.com/LucasTKP/LucasTKP/assets/101598532/37a8aec2-1a17-424e-bbe8-5a69019d6779)
+" />
+    
 </p>
 
 <p align="left">💼 Ferramentas:
