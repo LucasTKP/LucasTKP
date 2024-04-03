@@ -14,23 +14,21 @@
     <img align="center" alt="Icon CSS" height="30" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img align="center" alt="Icon Bootstrap" height="30" title="Tailwind" src="https://firebasestorage.googleapis.com/v0/b/aredev-418e3.appspot.com/o/images%20to%20readme%2Fnwt9ncojkvwmjfkaada8upafvpnu.png?alt=media&token=6f3eba67-4034-455e-9282-a595b5846a1a" />
     <img align="center" alt="Icon Javascript" height="30" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Icon Javascript" height="30" title="Javascript" src="https://firebasestorage.googleapis.com/v0/b/aredev-418e3.appspot.com/o/images%20to%20readme%2FDart-logo.png?alt=media&token=d54f31eb-9838-47ca-bca0-fc1aaf0ee965" />
+    <img align="center" alt="Icon Dart" height="30" title="Dart" src="https://firebasestorage.googleapis.com/v0/b/aredev-418e3.appspot.com/o/images%20to%20readme%2FDart-logo.png?alt=media&token=d54f31eb-9838-47ca-bca0-fc1aaf0ee965" />
     
 </p>
 
 <p align="left">💼 Ferramentas:
     <img align="center" alt="Icon VSCode" height="30" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align="center" alt="Icon IntelliJ" height="30" title="IntelliJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+    <img align="center" alt="Icon Android Studio" height="30" title="Android Studio" src="https://firebasestorage.googleapis.com/v0/b/aredev-418e3.appspot.com/o/images%20to%20readme%2Fpngwing.com%20(1).png?alt=media&token=8de23880-4dc1-4864-9bd1-5c67478b23fa" />
     <img align="center" alt="Icon Git" height="30" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Icon Figma" height="30" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
 </p>
 
 <p align="left">📚 Estudando:
     <img align="center" alt="Icon Node.js" height="30" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Icon MongoDB" height="30" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" alt="Icon React" height="30" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="Icon Java" height="30" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Icon Figma" height="30" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="center" alt="Icon Docker" height="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" alt="Icon Flutter" height="30" title="Flutter" src="https://firebasestorage.googleapis.com/v0/b/aredev-418e3.appspot.com/o/images%20to%20readme%2Fpngwing.com.png?alt=media&token=f0ff7334-013d-4a49-89d5-b01935f8be32" />
 </p>
 
 <p align="left">💌 Entre em contato: ⤵️</p>
