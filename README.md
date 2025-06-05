@@ -6,7 +6,7 @@
     Meu nome é <em>Lucas Gean dos Santos</em>, tenho 20 anos e sou de Franca-SP.<br>
     Estudo programação desde o início de 2020.<br>
     Cursei o ensino médio integrado ao técnico (Desenvolvimento de Sistemas) na Etec Dr julio Cardoso.
-    Atualmente Curso Desenvolvimento de Software Multiplataforma, na Fatec Dr Thomaz Novelino.
+    Atualmente estou concluindo minha graduação em Desenvolvimento de Software Multiplataforma, na Fatec Dr Thomaz Novelino.
 </p>
 
 <p align="left">🦄 Linguagens:
